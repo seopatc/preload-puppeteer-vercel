@@ -1,1 +1,11 @@
+{
+  "name": "preload-vercel",
+  "version": "1.0.0",
+  "main": "api/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "chrome-aws-lambda": "10.1.0",
+    "puppeteer-core": "10.1.0"
+  }
+}
 
